@@ -3,7 +3,7 @@
 ![welcome gif](8b357283fd26e3bb18cc1983c0ebdb9c.gif)
 
 
-About Me 👋
+## About Me 👋
 ![profile picture](ac9f30703d693eb70ae398bfe0fed36f.jpg)
 
 Hi there! Welcome to my developer journey. Whether you're a beginner like me or a seasoned professional, I hope my path inspires and resonates with you.
@@ -16,7 +16,7 @@ Beyond coding, I’m captivated by the world of art, 3D design, and animations. 
 
 ---
 
-2025: A Year of Learning 🚀
+## 2025: A Year of Learning 🚀
 
 ![begin](sfedfsedf.png)
 
@@ -36,7 +36,7 @@ Node.js: Enabling full-stack JavaScript development with server-side skills.
 
 ---
 
-My Learning Plan 📚
+## My Learning Plan 📚
 
 ![blow-ur-mind](giphy.gif)
 
@@ -78,7 +78,7 @@ Applying everything I've learned to build real-world projects.
 
 ---
 
-Why I'm Sharing This 🌟
+## Why I'm Sharing This 🌟
 
 I believe in the power of community and sharing knowledge. Documenting my journey is a way to:
 
@@ -92,7 +92,7 @@ Inspire others who are just starting out in tech.
 
 ---
 
-Let's Connect 🤝
+## Let's Connect 🤝
 
 I'm always eager to connect with other developers, share tips, or collaborate on projects. If you're on a similar journey or have advice, feel free to reach out!
 
